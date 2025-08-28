@@ -27,9 +27,4 @@ The main implementation is available here:
 
 The notebook simulates the urn process and plots the empirical distribution of `X_n` compared with the uniform distribution.
 
----
 
-## How to Run
-```bash
-pip install -r requirements.txt
-jupyter lab
